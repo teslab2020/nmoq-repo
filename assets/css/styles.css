@@ -1,0 +1,124 @@
+.mainLogo img{max-width: 75%}
+.mainLogo{}
+.nav-link{color:#6E8CB1;font-weight: 600;font-size: 1.3rem;padding-right: 1rem!important;padding-left: 1rem!important;}
+.bannerComponent img{width: 100%;}
+.opacityDiv{background-color: black;opacity:0.2;position: absolute;top: 0;bottom: 0;left: 0;right: 0}
+.bannerComponent{position: relative;background-image:url('../images/homepageBanner.jpg');height: 500px;background-size: cover;}
+.bannerTitle{position: absolute;text-align: center;color:white;font-weight: bold;top: 15%;font-size: 2rem;left: 0;right: 0;}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+  } 
+  #content-wrap {
+    padding-bottom: 6.5rem;    /* Footer height */
+  }
+  
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem; 
+    background: #708eb0;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 600;           /* Footer height */
+  }
+  .TimelineDiv img{width:100%}
+  .containerBorder{    border-bottom: 5px solid #708eb0;    margin-bottom: 2rem;}
+  .searchResults{}
+  .headerDiv{
+    margin-bottom: 20px;
+}
+  .itemSearch{}
+  .itemSearch img{
+    width: 100%;
+}
+  .itemSearch h3{
+    font-size: 16px;
+    margin-top: 10px;color:black
+}
+  .itemSearch p{
+    margin-bottom: 0;
+    font-size: 13px;
+}
+  .firstT{
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 10px;
+}
+  .secondt{
+    color: #5c5a5a;
+    font-weight: 600;
+}
+.titleChina{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 35px 0;
+}
+.imgMap img{width: 100%;}
+.mapRow{background: #dce0e4;}
+.focusMap img{width: 100%;}
+.customHeight{max-height: 100%;overflow: auto;}
+
+    .navContainer {
+        max-width: 1300px!important;
+    }
+
+
+.detailsLefComp{}
+.detailsLefComp .title{
+    font-weight: 600;
+    font-size: 30px;
+}
+.detailsLefComp .subTitle{
+    color: #7a7a7a;
+    font-weight: 600;
+    font-size: 20px;
+}
+.detailsLefComp .country{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.detailsLefComp .description{
+    margin-top: 20px;
+}
+
+.MinTitleObject{
+    color: black;
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.objectItem{
+    margin-bottom: 10PX;
+}
+.objectItem .firstTitle{
+    font-weight: bold;
+    margin-right: 7px;
+}
+.objectItem span{}
+
+
+.paginationDiv{
+    text-align: center;
+    margin: auto;
+    float: none;
+    margin-top: 50px;
+}
+.paginationDiv  a{
+    display: inline-block;
+    background: #d8d4d4;
+    padding: 5px;
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    line-height: 1.5;
+    font-size: 19px;
+    cursor: pointer;
+}
+.itmImg img{width:100%}
